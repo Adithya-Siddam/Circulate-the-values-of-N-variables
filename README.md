@@ -33,4 +33,4 @@ def circulate():
 ![OUTPUT](/IMAGES/image2.png)
 
 ## Result:
-Thus the program to circulate the variables is commpletes sucessfully.
+Thus the python program to circulate the n variable using function concept is solved.
